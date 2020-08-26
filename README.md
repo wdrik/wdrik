@@ -5,7 +5,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
 - 🚀 I’m currently working at [i4pro](http://www.i4pro.com.br/)
-- 💻 Node, ReactJS, React Native, Typescript
+- 💻 ReactJS, VueJS, Node, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
 
