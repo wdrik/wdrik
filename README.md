@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Linkedin Badge](https://img.shields.io/badge/logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iorgen-wildrik-aa0270132)](https://www.linkedin.com/in/iorgen-wildrik-aa0270132)
+
 <!--
 **wdrik/wdrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
