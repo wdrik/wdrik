@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/hero-octocats.svg" width="350"/>
+<img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/hero-octocats.svg" width="auto"/>
 
 <br/>
 
