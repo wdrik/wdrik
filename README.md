@@ -20,9 +20,7 @@
 
 ### Frameworks & Technologies
 
-<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png?raw=true">
-<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.png?raw=true">
-<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.png?raw=true">
+<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png?raw=true"><img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.jpg?raw=true"><img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.jpg?raw=true">
 
 ### Connect with me :smiley:
 
