@@ -22,6 +22,10 @@
 
 <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png"><img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.jpg"><img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.jpg">
 
+| <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.jpg?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.jpg?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/node.png?raw=true"> |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+
+
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/iorgen-wildrik-aa0270132" target="_blank">
