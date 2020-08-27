@@ -20,8 +20,8 @@
 
 ### Frameworks & Technologies
 
-| <img height="30"  src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png?raw=true"> | <img height="30"   src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.png?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.png?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/node.png?raw=true"> |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.png?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.png?raw=true"> | <img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/node.png?raw=true"> |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 
 
 ### Connect with me :smiley:
@@ -33,6 +33,8 @@
 <a href="https://pt.stackoverflow.com/users/33784/wdrik" target="_blank">
   <img align="left" alt="Iorgen Wildrik Linkdin" width="22px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
 </a>
+
+<img align="right" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/education.svg" width="360"/>
 
 <!--
 **wdrik/wdrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
