@@ -26,8 +26,8 @@
 
 ### Connect with me :smiley:
 
-<a href="https://www.linkedin.com/in/iorgen-wildrik-aa0270132/">
-  <img align="left" alt="Iorgen Wildrik Linkdin" width="24px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/linkedin.png" />
+<a href="https://www.linkedin.com/in/iorgen-wildrik-aa0270132">
+  <img align="left" alt="Iorgen Wildrik Linkdin" width="24px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/linkedin.svg" />
 </a>
 
 <a href="https://pt.stackoverflow.com/users/33784/wdrik">
