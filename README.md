@@ -24,6 +24,8 @@
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 
 
+<img align="right" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/octocat-bug.png" width="auto"/>
+
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/iorgen-wildrik-aa0270132" target="_blank">
@@ -33,8 +35,6 @@
 <a href="https://pt.stackoverflow.com/users/33784/wdrik" target="_blank">
   <img align="left" alt="Iorgen Wildrik Linkdin" width="22px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
 </a>
-
-<img align="right" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/octocat-bug.png" width="360"/>
 
 <!--
 **wdrik/wdrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
