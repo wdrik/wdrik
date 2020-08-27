@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width="40px"> 
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width="40px"> 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width="40px">
+<img src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" width="40px">
 
 ### Connect with me :smiley:
 
