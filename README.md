@@ -12,11 +12,17 @@
 - 💻 ReactJS, VueJS, Node, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
-### Tools :fire:
+### Core tech
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width="40px"> 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width="40px"> 
-<img src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" width="40px">
+| <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/html5.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/css.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/javascript.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/typescript.png?raw=true"> |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+
+
+### Frameworks & Technologies
+
+| <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/vue.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/nuxt.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/angular.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/ionic-flat.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/graphql.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/hasura.png?raw=true"> |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+
 
 ### Connect with me :smiley:
 
@@ -24,8 +30,8 @@
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/vedant-jajoo-89a366171/">
-  <img align="left" alt="Iorgen Wildrik Linkdin" width="21px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
+<a href="https://pt.stackoverflow.com/users/33784/wdrik">
+  <img align="left" alt="Iorgen Wildrik Linkdin" width="36px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
 </a>
 
 <!--
