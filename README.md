@@ -27,11 +27,11 @@
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/vedant-jajoo-89a366171/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Vedant Jajoo Linkdin" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
 <a href="https://pt.stackoverflow.com/users/33784/wdrik">
-  <img align="left" alt="Iorgen Wildrik Linkdin" width="36px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
+  <img align="left" alt="Iorgen Wildrik Linkdin" width="24px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
 </a>
 
 <!--
