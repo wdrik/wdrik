@@ -1,10 +1,8 @@
-<img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/hero-octocats.svg" width="auto"/>
+<!-- <img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/hero-octocats.svg" width="auto"/>
 
-<img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/education.svg" width="auto"/>
+<img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/education.svg" width="auto"/> -->
 
-<img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/education-drawing.svg" width="auto"/>
-
-<img align="left" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/hero-octocats.svg" width="auto"/>
+<img align="right" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/education-drawing.svg" width="360"/>
 
 <br/>
 
