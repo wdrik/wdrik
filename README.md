@@ -20,18 +20,18 @@
 
 ### Frameworks & Technologies
 
-| <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/vue.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/nuxt.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/angular.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/ionic-flat.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/graphql.png?raw=true"> | <img height="30" src="https://github.com/alvarosaburido/alvarosaburido/blob/master/icons/hasura.png?raw=true"> |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-
+<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/react.png?raw=true">
+<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/vue.png?raw=true">
+<img height="30" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/angular.png?raw=true">
 
 ### Connect with me :smiley:
 
-<a href="https://www.linkedin.com/in/iorgen-wildrik-aa0270132">
+<a href="https://www.linkedin.com/in/iorgen-wildrik-aa0270132" target="_blank">
   <img align="left" alt="Iorgen Wildrik Linkdin" width="24px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/linkedin.svg" />
 </a>
 
-<a href="https://pt.stackoverflow.com/users/33784/wdrik">
-  <img align="left" alt="Iorgen Wildrik Linkdin" width="24px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
+<a href="https://pt.stackoverflow.com/users/33784/wdrik" target="_blank">
+  <img align="left" alt="Iorgen Wildrik Linkdin" width="22px" src="https://raw.githubusercontent.com/wdrik/wdrik/master/images/stackoverflow.png" />
 </a>
 
 <!--
