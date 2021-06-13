@@ -8,8 +8,8 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋
 
-- 🚀 I’m currently working at [i4pro](http://www.i4pro.com.br/)
-- 💻 ReactJS, VueJS, Node, Typescript
+- 🚀 I’m currently working at [Sysmap](https://www.sysmap.com.br)
+- 💻 ReactJS, Next.js Angular, VueJS, NodeJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
 ### Core tech
