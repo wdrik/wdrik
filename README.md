@@ -9,7 +9,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently working at [Sysmap](https://www.sysmap.com.br)
-- 💻 ReactJS, Next.js Angular, VueJS, NodeJS, Typescript
+- 💻 ReactJS, Next.js, Angular, VueJS, NodeJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
 ### Core tech
