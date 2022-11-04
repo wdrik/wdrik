@@ -8,7 +8,7 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋
 
-- 🚀 I’m currently working at [Sysmap](https://www.sysmap.com.br)
+- 🚀 I’m currently working at [Itau](https://www.itau.com.br)
 - 💻 ReactJS(Next.js), Angular, VueJS, NodeJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
